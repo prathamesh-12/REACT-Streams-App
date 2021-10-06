@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+(make sure to create new folder 'client' and then clone client repo on local system
+
 ## Available Scripts
 
 In the project directory, you can run:
