@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "Stream #1",
+      "description": "dasdasd  adasdad",
+      "userId": "107978930930597102109",
+      "id": 1
+    },
+    {
+      "title": "Stream #2",
+      "description": "ffsdfsd dsfs f sfsfsd",
+      "userId": "107978930930597102109",
+      "id": 2
+    },
+    {
+      "title": "Stream #3",
+      "description": "Created by Prathamesh.V.Nimbkar",
+      "userId": "109304295222213586011",
+      "id": 3
+    },
+    {
+      "title": "Stream #4",
+      "description": "Testing programmatic navigation...",
+      "userId": "107978930930597102109",
+      "id": 4
+    },
+    {
+      "title": "dfsf",
+      "description": "sdfsfsdfsf",
+      "userId": "107978930930597102109",
+      "id": 5
+    },
+    {
+      "title": " A Bat",
+      "description": "Nims",
+      "userId": "107978930930597102109",
+      "id": 6
+    }
+  ]
+}
